@@ -7,6 +7,7 @@ kiwifruit is a commercially grown fruit in New Zealand and other countries like 
 Chlorophyll is the green pigment responsible for harvesting light
 fuzyy
 ##Aim of the research
+To understand the control of chlorophyll accumulation and degradation in green and yellow kiwifruit
 ##Proposed research
 ##References
 
