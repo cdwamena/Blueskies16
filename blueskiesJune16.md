@@ -12,6 +12,8 @@ To understand the control of chlorophyll accumulation and degradation in green a
 ##Proposed research
 ##References
 
+The paragaph below was added just to fill up the page. I do not like to see empty pages.
+
 A colleague suggests using version control to manage their work. Version control is better than mailing files back and forth:
 
 Nothing that is committed to version control is ever lost. Since all old versions of files are saved, it’s always possible to go back in time to see exactly who wrote what on a particular day, or what version of a program was used to generate a particular set of results.
